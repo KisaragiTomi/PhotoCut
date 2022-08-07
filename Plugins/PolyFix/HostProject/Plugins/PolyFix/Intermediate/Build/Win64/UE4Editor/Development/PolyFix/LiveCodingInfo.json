@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PolyFix.cpp.obj": [
+			"PolyFix.cpp.obj",
+			"ProceduralMeshExtra.cpp.obj"
+		],
+		"Module.PolyFix.gen.cpp.obj": [
+			"PolyFix.init.gen.cpp.obj",
+			"ProceduralMeshExtra.gen.cpp.obj"
+		]
+	}
+}
